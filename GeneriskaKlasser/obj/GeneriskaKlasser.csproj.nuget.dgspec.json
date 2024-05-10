@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj": {}
+    "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj": {
+    "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj",
+        "projectUniqueName": "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj",
         "projectName": "GeneriskaKlasser",
-        "projectPath": "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj",
+        "projectPath": "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\GeneriskaKlasser.csproj",
         "packagesPath": "C:\\Users\\baltazar.biverstal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\obj\\",
+        "outputPath": "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\GeneriskaKlasser\\GeneriskaKlasser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baltazar.biverstal\\AppData\\Roaming\\NuGet\\NuGet.Config"

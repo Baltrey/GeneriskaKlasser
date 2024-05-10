@@ -1,0 +1,15 @@
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net8.0\GeneriskaKlasser.exe
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net8.0\GeneriskaKlasser.deps.json
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net8.0\GeneriskaKlasser.runtimeconfig.json
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net8.0\GeneriskaKlasser.dll
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net8.0\GeneriskaKlasser.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.AssemblyInfoInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.AssemblyInfo.cs
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.csproj.CoreCompileInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.sourcelink.json
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.dll
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\refint\GeneriskaKlasser.dll
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\GeneriskaKlasser.genruntimeconfig.cache
+c:\Users\baltazar.biverstal\Documents\programering2\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net8.0\ref\GeneriskaKlasser.dll
